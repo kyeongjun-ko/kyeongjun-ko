@@ -1,7 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Kyeongjun!&fontSize=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&fontColor=ffffff&height=180&section=header&text=Welcome%20👋%20I'm%20Kyeong%20jun&fontSize=30&animation=twinkling)
 
 
 <div align="center">
+
+### Introduction
+🔗 사람들과 연결되는 것을 좋아합니다.<br>
+사람들과의 의사소통은 저에게 항상 즐거움을 주고 새로운 아이디어와 동기를<br>
+불어넣어주고 저를 끊임없이 성장하게 만드는 가장 큰 원동력입니다.<br>
+
+👥 사람들과의 협업을 좋아합니다.<br>
+불가능해 보이는 어려운 작업이라도 동료들과 함께 의논하며 해결방법을 모색하고<br>
+협업 과정에서 겪게되는 갈등은 저를 반성하게 하고 단단하게 만들어주며 <br>
+팀원과 함께 경험하는 성취감은 저를 성장하게 만드는 원동력입니다.<br>
+
+🦾 환경에 변화를 주며 성장했습니다<br>
+3년동안 유치원에서 교사로 일하면서 아이들과 함께 성장하는 기쁨을 느끼고<br>
+이제는 개발자로서 좋은 동료들과 함께 저 또한 좋은 동료가 되어 함께 성장하기 원합니다.<br>
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>
