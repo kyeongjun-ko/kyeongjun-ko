@@ -44,4 +44,7 @@
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=kyeongjun-ko&show_icons=true">
+<br>
+<br>
+<img src="https://github.com/kyeongjun-ko/kyeongjun-ko/blob/output/github-contribution-grid-snake.svg"/>
 </div>
