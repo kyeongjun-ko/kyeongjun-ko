@@ -1,23 +1,62 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&fontColor=ffffff&height=180&section=header&text=Welcome%20👋%20I'm%20Kyeong%20jun&fontSize=30&animation=twinkling)
 
 
-<div align="center">
+## Introduction
 
-### Introduction
-🔗 사람들과 연결되는 것을 좋아합니다.<br>
-사람들과의 의사소통은 저에게 항상 즐거움을 주고 새로운 아이디어와 동기를<br>
-불어넣어주고 저를 끊임없이 성장하게 만드는 가장 큰 원동력입니다.<br>
+[![Notion Badge](https://img.shields.io/badge/Notion-FFC733?style=for-the-badge&logo=Notion&logoColor=black&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-33A852?style=for-the-badge&logo=Gmail&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
 
-👥 사람들과의 협업을 좋아합니다.<br>
-불가능해 보이는 어려운 작업이라도 동료들과 함께 의논하며 해결방법을 모색하고<br>
-협업 과정에서 겪게되는 갈등은 저를 반성하게 하고 단단하게 만들어주며 <br>
-팀원과 함께 경험하는 성취감은 저를 성장하게 만드는 원동력입니다.<br>
 
-🦾 환경에 변화를 주며 성장했습니다<br>
-3년동안 유치원에서 교사로 일하면서 아이들과 함께 성장하는 기쁨을 느끼고<br>
-이제는 개발자로서 좋은 동료들과 함께 저 또한 좋은 동료가 되어 함께 성장하기 원합니다.<br>
+안녕하세요, 소프트웨어 엔지니어 고경준입니다. <br>
 
-### Tech Stack
+저는 프로그래밍의 매력은 다른 사람들과 최선의 해결 방법을 찾아가는 과정에 있다고 생각합니다.<br>
+
+서로의 의견을 공유하고 논리적인 근거를 바탕으로 의사결정을 할때 저의 관점 또한 넓어지고<br>
+
+협업 과정에서 겪는 갈등은 저를 더욱 단단하게 만들어주며, 함께 이룬 성취감은 저의 원동력이 됩니다. <br>
+
+
+## Experience
+
+저는 유아교육 기관에서 3년간 교사로 근무했던 경험이 있습니다. <br>
+
+하루가 다르게 자라는 아이들과 함께 저도 더 나은 어른으로 같이 성장시켰던 시간이었습니다. <br>
+
+역동적인 교육환경에서 빠르게 판단하고 문제를 해결하는 능력을 기를 수 있었고, <br>
+
+교사, 학부모 등 다양한 배경을 가진 사람들과 협업하는것이 익숙하고 선명한 의사 소통을 좋아합니다. <br>
+
+## My Goal
+
+이제는 개발자로서 교육이 아닌 기술로 사람들의 삶의 문제를 해결하는데 조금이나마 도움이 되고 싶습니다. <br>
+
+현재 알고리즘 스터디를 진행하고 있으며 좋은 개발자가 되기 위해 오늘도 차근 차근, 꾸준하게 노력중입니다. <br>
+
+> [!NOTE]
+> [알고리즘 스터디](https://github.com/geezer-algo-study/geezer-algo-study) 운영 및 진행
+
+## Repository
+
+**Project [PDS Diary](https://github.com/Personal-Daily-Scheduler/)**
+
+> 개인 프로젝트 (약 2주 간의 핵심 기능 개발 기간)<br>
+>
+> PDS 다이어리에서 영감을 받아서 10분단위로 하루 일정을 계획할 수있는 다이어리 앱입니다. <br>
+> 셀단위 컴포넌트에서 드래그 기능을 사용해서 일정을 추가 / 이동 할수 있는 기능을 구현했습니다.<br>
+> 간단한 텍스트 편집 기능을 추가하기 위해서 라이브러리를 사용하지 않고 직접 구현해보았습니다.<br>
+>
+
+<br>
+
+**Project [Figci](https://github.com/Figci/Figci-Client)**
+
+> 팀 프로젝트 (약 4주 간의 핵심 기능 개발 기간) <br>
+>
+> 디자이너와 개발자간 협업을 돕기위해 기획된 Figma 프로젝트 파일의 버전 관리 서비스 입니다. <br>
+> 사용자가 선택한 두 버전간의 디자인이 변경된 부분에 시각적으로 표시해주고, 변경된 정보를 보여줍니다.<br>
+> fabric.js 를 사용해서 다양한 피그마 디자인 요소를 웹 캔버스상에 재현하여서 보여줍니다.<br>
+> 디스콰이엇 트랜팅 프로덕트 1위 달성, 다운로드수 100회 돌파하였습니다. <br>
+
+## Skills
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/></a>
@@ -27,27 +66,9 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a>
-
-### Experienced
 <img src="https://img.shields.io/badge/React query-FF4154?style=flat&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=Vitest&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
 <br />
-
-### Contact Me
-<a href="mailto:rhrudwnsgjgo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=rhrudwnsgjgo@gmail.com"/></a>
-<a href="https://www.instagram.com/gae_jjun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/gae_jjun/"/></a>
-<a href="https://www.facebook.com/kyoungjun.ko.5/"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/kyoungjun.ko.5/"/></a>
-<br />
-
-### GitHub Stats
-<div>
-<img style="width:330px" src="https://github-readme-stats.vercel.app/api?username=kyeongjun-ko&show_icons=true">
-<img style="width:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongjun-ko&layout=compact&theme=tokyonight">
-</div>
-<br>
-<br>
-<img src="https://github.com/kyeongjun-ko/kyeongjun-ko/blob/output/github-contribution-grid-snake.svg"/>
-</div>
