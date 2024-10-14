@@ -2,8 +2,8 @@
 
 ## Introduction
 
-[![Notion Badge](https://img.shields.io/badge/Notion-FFC733?style=for-the-badge&logo=Notion&logoColor=black&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-33A852?style=for-the-badge&logo=Gmail&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-FFC733?style=for-the-badge&logo=Notion&logoColor=black&link=https://sand-tapir-46f.notion.site/Kyeong-Jun-0ce3157500574eee81cedf58b7e160e4?pvs=4)](https://sand-tapir-46f.notion.site/Kyeong-Jun-0ce3157500574eee81cedf58b7e160e4?pvs=4)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-33A852?style=for-the-badge&logo=Gmail&link=mailto:rhrudwnsgjgo@gmail.com)](mailto:rhrudwnsgjgo@gmail.com)
 
 
 안녕하세요, 소프트웨어 엔지니어 고경준입니다. <br>
@@ -17,9 +17,9 @@
 
 ## Experience
 
-저는 유아교육 기관에서 3년간 교사로 근무했던 경험이 있습니다. <br>
+유아교육 기관에서 3년간 교사로 근무했던 경험이 있습니다. <br>
 
-하루가 다르게 자라는 아이들과 함께 저도 더 나은 어른으로 같이 성장시켰던 시간이었습니다. <br>
+하루가 다르게 자라는 아이들과 저도 함께 더 나은 어른으로 성장햇던 시간이었습니다. <br>
 
 역동적인 교육환경에서 빠르게 판단하고 문제를 해결하는 능력을 기를 수 있었고, <br>
 
@@ -54,7 +54,7 @@
 > 디자이너와 개발자간 협업을 돕기위해 기획된 Figma 프로젝트 파일의 버전 관리 서비스 입니다. <br>
 > 사용자가 선택한 두 버전간의 디자인이 변경된 부분에 시각적으로 표시해주고, 변경된 정보를 보여줍니다.<br>
 > fabric.js 를 사용해서 다양한 피그마 디자인 요소를 웹 캔버스상에 재현하여서 보여줍니다.<br>
-> 디스콰이엇 트랜팅 프로덕트 1위 달성, 다운로드수 100회 돌파하였습니다. <br>
+> 디스콰이엇 트랜팅 프로덕트 1위 달성, [다운로드수 150회](https://www.figma.com/community/plugin/1339982367203490154) 돌파하였습니다. <br>
 
 ## Skills
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>
